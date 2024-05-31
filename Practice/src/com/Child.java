@@ -10,7 +10,7 @@ public class Child extends Test {
 
 	public static void main(String[] args) {
 
-		Test t = new Child();
+	System.out.println("I am changing this class");
 		
 	}
 }
